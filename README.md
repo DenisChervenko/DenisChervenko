@@ -7,7 +7,13 @@
   <img src="https://img.shields.io/badge/%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?logo=VK&logocolor=white&style=for-the-badge" alt="VK Badge"/>
  </a>
  <a href="https://play.google.com/store/apps/dev?id=6302621234291913558&hl=ru&gl=US"> 
-  <img src="https://img.shields.io/badge/GooglePlay-gray?logo=GooglePlay&logocolor=white&style=for-the-badge" alt ="GooglePlay Badge"/>
+  <img src="https://img.shields.io/badge/GooglePlay-gray?logo=GooglePlay&logocolor=white&style=for-the-badge" alt="GooglePlay Badge"/>
+ </a>
+ <a href="mailto:laskarazor@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-white?logo=Gmail&logocolor=white&style=for-the-badge" alt="Gmail Badge"/>
+ </a>
+ <a href="mailto:yamagister@mail.ru">
+  <img src="https://img.shields.io/badge/Mail.ru-blue?logo=Mail.ru&logocolor=blue&style=for-the-badge" alt="Mail.ru Badge"/>
  </a>
 </div>
 
