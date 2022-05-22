@@ -78,6 +78,10 @@ I am a Unity C# Developer from Ukraine :ukraine:
  <a href="https://www.substance3d.com/">
   <img src="https://cdn.worldvectorlogo.com/logos/substance-painter.svg" title="SubstancePainter" alt="SubstancePainter" width="40" height="40"/>&nbsp;
  </a>
+   
+ <a href="https://www.substance3d.com/">
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/git_scm_logo_icon_170096.png" title="SubstancePainter" alt="SubstancePainter" width="40" height="40"/>&nbsp;
+ </a>
 </div>
 
 ---
